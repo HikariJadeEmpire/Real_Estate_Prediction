@@ -156,6 +156,7 @@ Output : <br>
 Original Model <br>
 
 # 
-สามารถดู Code โดยละเอียดได้ <a href="https://github.com/HikariJadeEmpire">ที่นี่</a>
+<br>
+สามารถดู Code โดยละเอียดได้ <a href="https://github.com/HikariJadeEmpire/Real_Estate_Prediction/blob/main/Fit_Linear.ipynb">ที่นี่</a>
 
 
