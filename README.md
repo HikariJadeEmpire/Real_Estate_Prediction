@@ -1,5 +1,5 @@
 # Real_Estate_Prediction
-**Project Description** : การใช้ Machine Learning ในการทำนายราคาบ้าน โดยใช้ Simple Linear Regression algorithm
+**Project Description** : การใช้ Machine Learning ในการทำนายราคาบ้าน โดยใช้ Simple Linear Regression algorithm & Regularization
 
 <h3>DATA Describtion</h3>
 Price = ราคาบ้าน <br>
